@@ -1,0 +1,12 @@
+{
+    "app_id": "f4fcace60aa0cafcc4abbedfffe001",
+    "collection_id": "f4b5f0eb0ab6fba0d1d3abe484bd01",
+    "items": [
+        {}
+    ],
+    "name": "test",
+    "permissions": {
+        "Anonymous": 1
+    },
+    "schema": []
+}

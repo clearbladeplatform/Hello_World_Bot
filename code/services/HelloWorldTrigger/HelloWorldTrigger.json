@@ -1,0 +1,12 @@
+{
+    "current_version": 34,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "HelloWorldTrigger",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "HelloWorldTrigger.js"
+}

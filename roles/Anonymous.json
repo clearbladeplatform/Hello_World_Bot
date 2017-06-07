@@ -1,0 +1,38 @@
+{
+    "Description": "Default role that is applied to all unauthenticated users",
+    "ID": "Anonymous",
+    "Name": "Anonymous",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "test",
+                "SystemKey": "f4fcace60aa0cafcc4abbedfffe001"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": null,
+                "ID": "f4b5f0eb0ab6fba0d1d3abe484bd01",
+                "Items": null,
+                "Level": 1,
+                "Name": "test"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": null,
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": null,
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}

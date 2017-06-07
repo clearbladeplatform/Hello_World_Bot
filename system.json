@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "description": "",
+    "edge_sync": {},
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "Hello World Bot",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "f4fcace60aa0cafcc4abbedfffe001",
+    "system_secret": "F4FCACE60AA09CCC8CA4A7D3ABEF01"
+}
